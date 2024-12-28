@@ -1,0 +1,4 @@
+/.vscode/
+/data/database.sqlite3
+/temp/
+/vendor/

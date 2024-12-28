@@ -1,0 +1,7 @@
+{
+    "home":{
+        "controller":"Home::index",
+        "path":"/",
+        "method":"GET"
+    }
+}
