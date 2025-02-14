@@ -1,7 +1,7 @@
 <?php
-namespace System;
+namespace Antwk;
 
-use System\Http\Response;
+use Antwk\Http\Response;
 
 /**
  * Abstract base class for controllers in the application.

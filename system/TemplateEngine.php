@@ -1,5 +1,5 @@
 <?php
-namespace System;
+namespace Antwk;
 
 class TemplateEngine extends \Smarty\Smarty {
     public function __construct() {

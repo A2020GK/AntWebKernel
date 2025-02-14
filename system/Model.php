@@ -1,5 +1,5 @@
 <?php
-namespace System;
+namespace Antwk;
 
 /**
  * Abstract base class for models in the application.

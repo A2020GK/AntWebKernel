@@ -1,11 +1,11 @@
 <?php
-namespace System;
+namespace Antwk;
 
 use Smarty\Smarty;
-use System\Http\Request;
-use System\Http\Response;
-use System\Routing\Router;
-use System\Routing\Route;
+use Antwk\Http\Request;
+use Antwk\Http\Response;
+use Antwk\Routing\Router;
+use Antwk\Routing\Route;
 
 /**
  * Class Application

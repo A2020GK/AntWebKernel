@@ -1,5 +1,5 @@
 <?php
-namespace System;
+namespace Antwk;
 
 /**
  * Abstract base class for modules in the application.
